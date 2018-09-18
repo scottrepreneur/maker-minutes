@@ -1,4 +1,4 @@
-### Risk #9 - 9/16/2018
+### Risk #9 - 9/13/2018
 ##### Introductions
 * Rich, Steven, Soren
 
