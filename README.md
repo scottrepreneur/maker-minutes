@@ -1,6 +1,6 @@
 ## Minutes from Risk & Governance Meetings for [MakerDAO](https://makerdao.com)
 
-#### Next Meeting: September 20, 2018
+#### Next Meeting: September 27, 2018
 
 #### Previous Meetings:
 * [Risk #9 - 9/13/2018](https://github.com/scottrepreneur/maker-minutes/blob/master/risk_9.md)
