@@ -67,7 +67,7 @@ Balance between time and cost when attempting to liquidate
 * When we create diversification benefits, we will use that as extra buffer rather than adding in additional collateral (debt ceiling)
 
 ##### How do you measure (risk) within the system how well were diversifying assets in the collateral portfolio?
-What is the basic risk disposition of the MRT(?) to never have a MKR dilution event and possibly leave some money on the table or to have an occasional MKR inflation which is offset by a higher MKR burn rate?
+What is the basic risk disposition of the MRT (Maker Risk Team aka Risk Team Zero) to never have a MKR dilution event and possibly leave some money on the table or to have an occasional MKR inflation which is offset by a higher MKR burn rate?
 * We want to consider overall volatility of the portfolio.
 * The overall value might change in the portfolio, which is fine, but we don’t want to see it moving rapidly
 * The mechanisms built around the system need to be fluid: broad set of CDP creators, distribution of Dai holders, liquidations smooth
