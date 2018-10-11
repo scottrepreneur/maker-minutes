@@ -1,9 +1,9 @@
 ## Dai Resources
 
-[Makerdao Website](https://makerdao.com/)
-[Dai Stablecoin System Whitepaper](https://makerdao.com/whitepaper/) [Purple](https://makerdao.com/purple/)
-[Dai Dashboard](https://dai.makerdao.com/)
-[Dai Documentation](https://developer.makerdao.com/dai/1/)
+[Makerdao Website](https://makerdao.com/)  
+[Dai Stablecoin System Whitepaper](https://makerdao.com/whitepaper/) [Purple](https://makerdao.com/purple/)  
+[Dai Dashboard](https://dai.makerdao.com/)  
+[Dai Documentation](https://developer.makerdao.com/dai/1/)  
 
 ### Overview of Dai
  - [Maker for Dummies: A Plain English Explanation of the Dai Stablecoin](https://medium.com/cryptolinks/maker-for-dummies-a-plain-english-explanation-of-the-dai-stablecoin-e4481d79b90) & [Part 2](https://medium.com/makerdao/maker-for-dummies-part-2-30bb11db168a)
