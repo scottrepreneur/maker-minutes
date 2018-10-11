@@ -1,13 +1,13 @@
 ## Dai Resources
 
-[Makerdao Website](https://makerdao.com/)  
+[MakerDAO Website](https://makerdao.com/)  
 [Dai Stablecoin System Whitepaper](https://makerdao.com/whitepaper/) [Purple](https://makerdao.com/purple/)  
 [Dai Dashboard](https://dai.makerdao.com/)  
 [Dai Documentation](https://developer.makerdao.com/dai/1/)  
 
 ### Overview of Dai
- - [Maker for Dummies: A Plain English Explanation of the Dai Stablecoin](https://medium.com/cryptolinks/maker-for-dummies-a-plain-english-explanation-of-the-dai-stablecoin-e4481d79b90) & [Part 2](https://medium.com/makerdao/maker-for-dummies-part-2-30bb11db168a)
- - [[MD] A Primer on Stablecoins: Part 1 [MD]](https://medium.com/makerdao/part-1-why-stablecoins-matter-3b273e1c529e) | [Part 2](https://medium.com/makerdao/part-2-a-primer-on-dai-3b6d1506fa83) | [Part 3](https://medium.com/makerdao/part-3-the-strengths-weaknesses-of-stablecoins-62f13b592e3f)
+ - [MakerDAO for Dummies: A Plain English Explanation of the Dai Stablecoin](https://medium.com/cryptolinks/maker-for-dummies-a-plain-english-explanation-of-the-dai-stablecoin-e4481d79b90) & [Part 2](https://medium.com/makerdao/maker-for-dummies-part-2-30bb11db168a)
+ - [A Primer on Stablecoins: Part 1 [MD]](https://medium.com/makerdao/part-1-why-stablecoins-matter-3b273e1c529e) | [Part 2](https://medium.com/makerdao/part-2-a-primer-on-dai-3b6d1506fa83) | [Part 3](https://medium.com/makerdao/part-3-the-strengths-weaknesses-of-stablecoins-62f13b592e3f)
  - [Intro to MakerDAO](https://blockgeeks.com/guides/intro-to-makerdao-stablecoins-part-1/) & [Part 2](https://blockgeeks.com/guides/makerdao-stablecoin-blockgeeks-part-2/)
  - [Single collateral Dai— 9 months in review](https://medium.com/@mikeraymcdonald/single-collateral-dai-9-months-in-review-b9d9fbe45ab)
  - [Decentralised Loans on Ethereum Blockchain (Way cheaper)](https://medium.com/moatcoin/decentralized-loans-dai-b7843f42c4b4)
