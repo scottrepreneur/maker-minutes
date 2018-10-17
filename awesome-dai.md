@@ -72,7 +72,7 @@
  - [Compound - Collateral Analysis](https://app.compound.finance/#Markets)
  - [CDP Simulator](https://cdp-simulator.surge.sh/)
  - [TRM Insights: Stablecoin Comparison](https://insights.trmlabs.com/?tokens=DAI,USDT,TUSD,GUSD,NUSD)
- - [Max Maker Stats](https://playground.supermax.cool/makerdao)
+ - [Max MakerDAO Stats](https://playground.supermax.cool/makerdao)
  - [Visualization of individual CDP health](https://www.etherview.io/#)
 
 ---
