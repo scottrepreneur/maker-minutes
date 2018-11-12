@@ -43,7 +43,7 @@
 
 #### How do you incentivize the risk teams to stay working on MKR risk?
 * Very difficultly
-* Battleship metaphor —> see [Risk #10, What are the responsibilities of the Foundation vs MakerDAO?](https://github.com/scottrepreneur/maker-minutes/blob/master/risk_10.md)
+* Battleship metaphor —> see [Risk #10, What are the responsibilities of the Foundation vs MakerDAO?](https://github.com/scottrepreneur/maker-minutes/blob/master/risk_10.md#what-are-the-responsibilities-of-the-foundation-vs-makerdao)
 * Some will be MKR holders, some will be incentivized by MKR holders but not holders themselves
 * Will depend on what MKR holders desire out of the governance system
 * Need lots of points of view to leverage “the wisdom of the crowd"

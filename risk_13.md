@@ -60,7 +60,7 @@
 #### If thousands of proposals coming in, then you’ll have thousands of votes coming the following weeks?
 * The other hand is there could be no proposals coming in
 * As MKR token holders it will depend on the availability of resources to actually consider the incoming proposals
-* Consider this with [‘where to store your MKR’ (Risk #12)](https://github.com/scottrepreneur/maker-minutes/blob/master/risk_12.md), because each of those proposals is directly correlated with the value of the MKR you’re voting with
+* Consider this with [‘where to store your MKR’ (Risk #12)](https://github.com/scottrepreneur/maker-minutes/blob/master/risk_12.md#where-should-you-hold-your-mkr-tokens), because each of those proposals is directly correlated with the value of the MKR you’re voting with
 
 #### Can anyone submit proposals or only risk teams?
 * MKR holders can create proposals
@@ -72,7 +72,7 @@
 * The most valuable proposals will come from risk teams with thorough research and constructs
 * There will likely be lots of votes as the system starts and gets running
 
-#### Where should you store your MKR? [(Cont’d from #12)](https://github.com/scottrepreneur/maker-minutes/blob/master/risk_12.md)
+#### Where should you store your MKR? [(Cont’d from #12)](https://github.com/scottrepreneur/maker-minutes/blob/master/risk_12.md#where-should-you-hold-your-mkr-tokens)
 * Voting structure or in an exchange trying to sell because the system requires constant attention as an MKR holder
 * It is up to us to determine the value of the system
 * If you don’t see value in the proposals being put forward then you need to consider that there is no more value to be had and look for liquidity
