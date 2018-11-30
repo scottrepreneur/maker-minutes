@@ -1,4 +1,4 @@
-### Risk #6 - 8/16/2018
+### [Risk #6 - 8/16/2018](https://www.youtube.com/watch?v=xfUTWYY_jwY)
 ##### Introductions
 * Rich, Steven, Jess
 

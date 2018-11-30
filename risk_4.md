@@ -1,4 +1,4 @@
-### Risk #4 [Special Edition: Stability Fee Raise] - 8/2/2018
+### [Risk #4 [Special Edition: Stability Fee Raise] - 8/2/2018](https://www.youtube.com/watch?v=IOIsG9OyrJs)
 ##### Introductions
 * Rich, Jess, Steven, Lev - Economic Research, Greg - Head of BD, Rune - CEO
 

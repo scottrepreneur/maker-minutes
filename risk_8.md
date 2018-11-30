@@ -1,4 +1,4 @@
-### Risk #8 - 8/30/2018
+### [Risk #8 - 8/30/2018](https://www.youtube.com/watch?v=bSITCcLmd0k)
 ##### Introductions
 * Rich, Steven
 

@@ -1,4 +1,4 @@
-### Risk #2 - 7/19/2018
+### [Risk #2 - 7/19/2018](https://www.youtube.com/watch?v=NXHERiLOwMA)
 ##### Introductions
 * Rich, Steven, Soren
 

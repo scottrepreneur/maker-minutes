@@ -1,4 +1,4 @@
-### Risk #14 - 11/15/2018
+### [Risk #14 - 11/15/2018](https://www.youtube.com/watch?v=duZ-WT_Qiqg)
 #### Introductions
 * Rich, Steven
 

@@ -1,4 +1,4 @@
-### Risk #9 - 9/13/2018
+### [Risk #9 - 9/13/2018](https://www.youtube.com/watch?v=7XTz3o-9QBo)
 ##### Introductions
 * Rich, Steven, Soren
 

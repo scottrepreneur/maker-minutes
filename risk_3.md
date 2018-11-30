@@ -1,4 +1,4 @@
-### Risk #3 - 7/26/2018
+### [Risk #3 - 7/26/2018](https://www.youtube.com/watch?v=84rvx7hEI0s)
 ##### Introductions
 * Rich, Jess, Steven, Soren
 

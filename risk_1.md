@@ -1,4 +1,4 @@
-### Risk #1 - 7/12/2018
+### [Risk #1 - 7/12/2018](https://www.youtube.com/watch?v=_W-Unj4LlzU)
 ##### Introductions
 * Rich, Jess, Steven
 

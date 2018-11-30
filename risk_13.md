@@ -1,4 +1,4 @@
-### Risk #13 - 11/8/2018
+### [Risk #13 - 11/8/2018](https://www.youtube.com/watch?v=rtiyNjiO1N0)
 #### Introductions
 * Rich & Steven
 

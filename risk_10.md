@@ -1,4 +1,4 @@
-### Risk #10 - Special Edition: a16z Investment - 9/27/2018
+### [Risk #10 - Special Edition: a16z Investment - 9/27/2018](https://www.youtube.com/watch?v=HjEmY1UG7jk)
 #### Introductions
 * Rich, Steven
 

@@ -1,4 +1,4 @@
-### Risk #11 - 10/11/2018
+### [Risk #11 - 10/11/2018](https://www.youtube.com/watch?v=DjGXpgxWN-A)
 #### Introductions
 * Rich, Steven
 
