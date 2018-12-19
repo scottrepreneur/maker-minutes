@@ -1,4 +1,4 @@
-### [Risk #15 - 11/6/2018](https://youtu.be/DgozX9W4A1E)
+### [Risk #15 - 12/6/2018](https://youtu.be/DgozX9W4A1E)
 ##### Introductions
 * Rich, Steven
 
@@ -30,7 +30,6 @@
 ##### [[14:52]](https://youtu.be/DgozX9W4A1E?t=892) Transparency: More transparent risk teams will raise their weighting as well?
 * The process must be transparent
 * Ideally a tool will provide the code, the data. Let you play with it and try to break it
-* !idea! Maker My Model
 
 ##### [[15:51]](https://youtu.be/DgozX9W4A1E?t=951) How is the weighting system applied to specific risk teams or proposals?
 * The ecosystem will have supporting entities and submitting entities
